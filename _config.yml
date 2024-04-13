@@ -12,7 +12,7 @@ title                    : "Mathias Jackermeier"
 title_separator          : "-"
 name                     : &name "Mathias Jackermeier"
 description              : &description "Academic website of Mathias Jackermeier"
-url                      : https://mathias-jackermeier.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mathias-jackermeier.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mathiasj33/mathiasj33.github.io"
 
