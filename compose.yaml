@@ -1,0 +1,10 @@
+services:
+  app:
+    image: website
+    command: jekyll serve --host 0.0.0.0 -l
+    ports:
+      - 127.0.0.1:4000:4000
+      - 127.0.0.1:35729:35729
+    working_dir: /site
+    volumes:
+      - ./:/site
