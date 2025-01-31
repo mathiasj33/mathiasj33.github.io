@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 
 <b>Jackermeier, M.</b>, Abate, A. (2024). <b>
-DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications</b>. In <i>ICLR'25 (to appear)</i>.
+DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL</b>. In <i>ICLR'25 (to appear)</i>.
 [(arXiv)](https://arxiv.org/abs/2410.04631){:target="_blank"}
 
 <b>Jackermeier, M.</b>, Chen, J., and Horrocks, I. (2024). <b>Dual Box Embeddings for the Description Logic EL++</b>. In <i>WWW’24 (oral)</i>.
