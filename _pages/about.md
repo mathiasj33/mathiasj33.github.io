@@ -20,3 +20,10 @@ Education
 <i class="fa fa-graduation-cap"></i> PhD in Machine Learning (AIMS CDT), 2022-2026, *University of Oxford*<br>
 <i class="fa fa-graduation-cap"></i> MSc in Computer Science, 2020-2022, *University of Oxford*<br>
 <i class="fa fa-graduation-cap"></i> BSc in Informatics, 2016-2020, *Technical University of Munich*
+
+News
+=====
+
+- [02/2025] Our paper [DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL](https://openreview.net/pdf?id=9pW2J49flQ) has been accepted as an **oral presentation** at ICLR 2025! Check out the website [here](https://deep-ltl.github.io/).
+- [02/2025] I will be joining [QuantCo](https://www.quantco.com/) as a Deep Learning Intern for the summer of 2025. I am looking forward to working with the team on exciting projects!
+- [01/2025] I am excited to join [St Hugh's College, Oxford](https://www.st-hughs.ox.ac.uk/) as a Stipendiary Lecturer in Computer Science for Hilary Term 2025.
