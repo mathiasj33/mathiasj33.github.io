@@ -24,6 +24,7 @@ Education
 News
 =====
 
+- [06/2025] Our paper _Zero-Shot Instruction Following in RL via Structured LTL Representations_ has been accepted at the ICML 2025 Workshop on [Programmatic Representations for Agent Learning](https://pral-workshop.github.io/)! Many thanks to my co-authors Mattia Giuri and Alessandro Abate.
+- [06/2025] I joined [QuantCo](https://www.quantco.com/) as a Deep Learning Research Intern for the summer of 2025. I am excited to work on improving LLM agents for complex workflows.
 - [02/2025] Our paper [DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL](https://openreview.net/pdf?id=9pW2J49flQ) has been accepted as an **oral presentation** at ICLR 2025! Check out the website [here](https://deep-ltl.github.io/).
-- [02/2025] I will be joining [QuantCo](https://www.quantco.com/) as a Deep Learning Intern for the summer of 2025. I am looking forward to working with the team on exciting projects!
 - [01/2025] I am excited to join [St Hugh's College, Oxford](https://www.st-hughs.ox.ac.uk/) as a Stipendiary Lecturer in Computer Science for Hilary Term 2025.
