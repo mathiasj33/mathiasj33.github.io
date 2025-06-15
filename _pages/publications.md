@@ -6,6 +6,8 @@ author_profile: true
 
 ## Publications
 
+Giuri, M.\*, <b>Jackermeier, M.\*</b>, Abate, A. (2025). <b>Zero-Shot Instruction Following in RL via Structured LTL Representations</b>. In <i>ICML'25 Workshop on Programmatic Representations for Agent Learning</i>.
+
 <b>Jackermeier, M.</b>, Abate, A. (2025). <b>
 DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL</b>. In <i>ICLR'25</i> (<b>oral</b>).
 [(arXiv)](https://arxiv.org/abs/2410.04631){:target="_blank"} [(website)](https://deep-ltl.github.io){:target="_blank"}
