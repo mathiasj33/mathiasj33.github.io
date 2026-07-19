@@ -15,7 +15,7 @@ My research focuses on _instruction following_ and _safety_ in reinforcement lea
 
 Previously, I have worked on learning decision trees for explainable and effective controller representation. I also have an interest in logic and knowledge representation, and have worked on integrating formal logical knowledge with learning-based reasoning approaches (e.g. knowledge graph embeddings or graph neural networks). For more details, see my [publications](publications/).
 
-During my PhD, I interned at [QuantCo](https://www.quantco.com/), where I worked on LLM agents. I'm currently a Student Researcher at [Google DeepMind](https://deepmind.google) in the Frontier AI Unit, working on RL for LLMs.
+During my PhD, I interned at [QuantCo](https://www.quantco.com/), where I worked on LLM agents. I'm currently a Student Researcher at [Google DeepMind](https://deepmind.google) in the Frontier AI Unit, working on learnable context management for LLMs.
 
 # Education
 
@@ -25,8 +25,9 @@ During my PhD, I interned at [QuantCo](https://www.quantco.com/), where I worked
 
 # News
 
+- [04/2026] Happy to announce one accepted paper at ICML'26 and one paper at IJCAI'26! 
 - [02/2026] I am excited to join [Google DeepMind](https://deepmind.google/) as a student researcher! I will broadly be working on RL for LLMs.
-- [01/2026] Four new preprints are out! Check out the [publications page](publications/) for details.
+- [01/2026] Two new preprints are out! Check out the [publications page](publications/) for details.
 - [06/2025] Our paper _Zero-Shot Instruction Following in RL via Structured LTL Representations_ has been accepted at the ICML 2025 Workshop on [Programmatic Representations for Agent Learning](https://pral-workshop.github.io/)! Many thanks to my co-authors Mattia Giuri and Alessandro Abate.
 - [06/2025] I joined [QuantCo](https://www.quantco.com/) as a Deep Learning Research Intern for the summer of 2025. I am excited to work on improving LLM agents for complex workflows.
 - [02/2025] Our paper [DeepLTL: Learning to Efficiently Satisfy Complex LTL Specifications for Multi-Task RL](https://openreview.net/pdf?id=9pW2J49flQ) has been accepted as an **oral presentation** at ICLR 2025! Check out the website [here](https://deep-ltl.github.io/).

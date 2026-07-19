@@ -6,6 +6,10 @@ author_profile: true
 
 ## Publications
 
+Schnitzer, Y.\*, <b>Jackermeier, M.\*</b>, Abate, A., Parker, D. (2026). <b>Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning</b>. In <i>ICML'26</i>. [(arXiv)](https://arxiv.org/abs/2602.02098){:target="\_blank"}
+
+Abate, A., De Giacomo, G., <b>Jackermeier, M.</b>\*, Křetínský, J., Prokop, M.\*, Weinhuber, C.\* (2026). <b>Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions</b>. In <i>IJCAI'26</i>. [(arXiv)](https://arxiv.org/abs/2602.06746){:target="\_blank"}
+
 Giuri, M.\*, <b>Jackermeier, M.\*</b>, Abate, A. (2025). <b>Zero-Shot Instruction Following in RL via Structured LTL Representations</b>. In <i>ICML'25 Workshop on Programmatic Representations for Agent Learning</i>. [(arXiv)](https://arxiv.org/abs/2512.02633){:target="\_blank"}
 
 <b>Jackermeier, M.</b>, Abate, A. (2025). <b>
@@ -23,11 +27,7 @@ Ashok, P.\*, <b>Jackermeier, M.\*</b>, Jagtap, P., Křetínský, J., Weininger, 
 
 <b>Jackermeier, M.</b>, Giuri, M., Cloete, J., Abate, A. (2026). <b>Zero-Shot Instruction Following in RL via Structured LTL Representations</b>. Extension of our previous workshop paper. [(arXiv)](https://arxiv.org/abs/2602.14344){:target="\_blank"}
 
-Schnitzer, Y.\*, <b>Jackermeier, M.\*</b>, Abate, A., Parker, D. (2026). <b>Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning</b>. [(arXiv)](https://arxiv.org/abs/2602.02098){:target="\_blank"}
-
 Cloete, J., <b>Jackermeier, M.</b>, Havoutis, I., Abate, A. (2026). <b>PlatoLTL: Learning to Generalize Across Symbols in LTL Instructions for Multi-Task RL</b>. [(arXiv)](https://arxiv.org/abs/2601.22891){:target="\_blank"}
-
-Abate, A., De Giacomo, G., <b>Jackermeier, M.</b>\*, Křetínský, J., Prokop, M.\*, Weinhuber, C.\* (2026). <b>Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions</b>. [(arXiv)](https://arxiv.org/abs/2602.06746){:target="\_blank"}
 
 ## Theses
 
