@@ -2,8 +2,10 @@
 
 FROM jekyll/jekyll
 WORKDIR /site
+COPY Gemfile ./
+RUN bundle install
+RUN rm -f Gemfile.lock
 COPY . .
-RUN apk update && apk add ruby-dev ruby-bundler nodejs && bundle install
-CMD ["jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "-l"]
 EXPOSE 4000
 EXPOSE 35729
